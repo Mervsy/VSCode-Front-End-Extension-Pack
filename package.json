@@ -18,14 +18,19 @@
     "theme": "dark",
     "color": "#0072c6"
   },
-  "tags": [
+  "keywords": [
+    "TypeScript",
+    "JavaScript",
+    "Front-End",
+    "Top Extensions",
+    "Pro",
     "Angular",
     "SCSS",
+    "SASS",
+    "HTML",
     "Color Scheme",
     "JSON",
-    "AIO",
-    "JavaScript",
-    "Front-End"
+    "AIO"
   ],
   "badges": [
     {

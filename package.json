@@ -1,108 +1,107 @@
 {
-  "name": "front-end-professional",
-  "displayName": "Front-End Professional",
-  "description":
-    "Nimble and adaptive, a must-have extension-pack for every professional front-end engineer.  Whether it's Angular, SCSS, HTML or general code-formatting.  The functionality you need to increase productivity, consistency, and rate of implementation.",
-  "version": "1.5.0",
-  "publisher": "RyanMyrvold",
-  "engines": {
-    "vscode": "^1.22.0"
-  },
-  "categories": ["Extension Packs"],
-  "author": {
-    "email": "rmyrvold@live.com",
-    "name": "Ryan Myrvold",
-    "url": "https://github.com/Mervsy"
-  },
-  "galleryBanner": {
-    "theme": "dark",
-    "color": "#0072c6"
-  },
-  "scripts": {
-    "vscode:prepublish":
-      "github-changes -d commits -o Mervsy -r VSCode-Front-End-Extension-Pack --order-semver"
-  },
-  "keywords": [
-    "TypeScript",
-    "JavaScript",
-    "Front-End",
-    "Top Extensions",
-    "Angular"
-  ],
-  "badges": [
-    {
-      "description": "Build",
-      "href": "https://travis-ci.org/Mervsy/VSCode-Front-End-Extension-Pack",
-      "url":
-        "https://travis-ci.org/Mervsy/VSCode-Front-End-Extension-Pack.svg?branch=master"
-    }
-  ],
-  "icon": "icons/front-end-professional.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Mervsy/front-end-extension-pack"
-  },
-  "devDependencies": {
-    "github-changes": "^1.1.2"
-  },
-  "extensionDependencies": [
-    "aaronphy.scss-scan",
-    "Angular.ng-template",
-    "bierner.markdown-emoji",
-    "bierner.markdown-preview-github-styles",
-    "christian-kohler.npm-intellisense",
-    "christian-kohler.path-intellisense",
-    "cipchk.cssrem",
-    "DavidAnson.vscode-markdownlint",
-    "deerawan.vscode-faker",
-    "DmitryDorofeev.empty-indent",
-    "DotJoshJohnson.xml",
-    "eamodio.gitlens",
-    "EditorConfig.EditorConfig",
-    "eg2.tslint",
-    "emilast.LogFileHighlighter",
-    "esbenp.prettier-vscode",
-    "fernandoescolar.vscode-solution-explorer",
-    "fknop.vscode-npm",
-    "formulahendry.auto-close-tag",
-    "gamunu.vscode-yarn",
-    "IBM.output-colorizer",
-    "ionutvmi.path-autocomplete",
-    "ipatalas.vscode-postfix-ts",
-    "jack89ita.open-file-from-path",
-    "joelday.docthis",
-    "johnpapa.Angular2",
-    "johnstoncode.svn-scm",
-    "kevinkyang.auto-comment-blocks",
-    "kevinmcgowan.TypeScriptImport",
-    "kisstkondoros.typelens",
-    "ktriek.ng-bootstrap-snippets",
-    "leizongmin.node-module-intellisense",
-    "MariusAlchimavicius.json-to-ts",
-    "matijarmk.dotnet-core-commands",
-    "michelemelluso.code-beautifier",
-    "Mikael.Angular-BeastCode",
-    "mikerhyssmith.ts-barrelr",
-    "mimarec.swagger-doc-viewer",
-    "mrmlnc.vscode-scss",
-    "msjsdiag.debugger-for-chrome",
-    "naumovs.node-modules-resolve",
-    "nwallace.peep",
-    "octref.vetur",
-    "onixie.angular-component-extension",
-    "patrys.vscode-code-outline",
-    "PeterJausovec.vscode-docker",
-    "pflannery.vscode-versionlens",
-    "rafamel.subtle-brackets",
-    "robertohuertasm.vscode-icons",
-    "robinbentley.sass-indented",
-    "samverschueren.yo",
-    "sanderledegen.angular-follow-selector",
-    "seansobey.jasmine-problem-matcher",
-    "sidneys1.gitconfig",
-    "SimonTest.simontest",
-    "thekalinga.bootstrap4-vscode",
-    "yzhang.markdown-all-in-one",
-    "zehfernando.theme-actual-obsidian"
-  ]
+    "name": "front-end-professional",
+    "displayName": "Front-End Professional",
+    "description": "Nimble and adaptive, a must-have extension-pack for every professional front-end engineer.  Whether it's Angular, SCSS, HTML or general code-formatting.  The functionality you need to increase productivity, consistency, and rate of implementation.",
+    "version": "1.6.0",
+    "publisher": "RyanMyrvold",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "author": {
+        "email": "rmyrvold@live.com",
+        "name": "Ryan Myrvold",
+        "url": "https://github.com/Mervsy"
+    },
+    "galleryBanner": {
+        "theme": "dark",
+        "color": "#0072c6"
+    },
+    "scripts": {
+        "vscode:prepublish": "github-changes -d commits -o Mervsy -r VSCode-Front-End-Extension-Pack --order-semver"
+    },
+    "keywords": [
+        "TypeScript",
+        "JavaScript",
+        "Front-End",
+        "Top Extensions",
+        "Angular"
+    ],
+    "badges": [
+        {
+            "description": "Build",
+            "href": "https://travis-ci.org/Mervsy/VSCode-Front-End-Extension-Pack",
+            "url": "https://travis-ci.org/Mervsy/VSCode-Front-End-Extension-Pack.svg?branch=master"
+        }
+    ],
+    "icon": "icons/front-end-professional.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Mervsy/front-end-extension-pack"
+    },
+    "devDependencies": {
+        "github-changes": "^1.1.2"
+    },
+    "extensionDependencies": [
+        "aaronphy.scss-scan",
+        "Angular.ng-template",
+        "bierner.markdown-emoji",
+        "bierner.markdown-preview-github-styles",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "cipchk.cssrem",
+        "DavidAnson.vscode-markdownlint",
+        "deerawan.vscode-faker",
+        "DmitryDorofeev.empty-indent",
+        "DotJoshJohnson.xml",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "eg2.tslint",
+        "emilast.LogFileHighlighter",
+        "esbenp.prettier-vscode",
+        "fernandoescolar.vscode-solution-explorer",
+        "fknop.vscode-npm",
+        "formulahendry.auto-close-tag",
+        "gamunu.vscode-yarn",
+        "IBM.output-colorizer",
+        "ionutvmi.path-autocomplete",
+        "ipatalas.vscode-postfix-ts",
+        "jack89ita.open-file-from-path",
+        "joelday.docthis",
+        "johnpapa.Angular2",
+        "johnstoncode.svn-scm",
+        "kevinkyang.auto-comment-blocks",
+        "kevinmcgowan.TypeScriptImport",
+        "kisstkondoros.typelens",
+        "ktriek.ng-bootstrap-snippets",
+        "leizongmin.node-module-intellisense",
+        "MariusAlchimavicius.json-to-ts",
+        "matijarmk.dotnet-core-commands",
+        "michelemelluso.code-beautifier",
+        "Mikael.Angular-BeastCode",
+        "mikerhyssmith.ts-barrelr",
+        "mimarec.swagger-doc-viewer",
+        "mrmlnc.vscode-scss",
+        "msjsdiag.debugger-for-chrome",
+        "naumovs.node-modules-resolve",
+        "nwallace.peep",
+        "octref.vetur",
+        "onixie.angular-component-extension",
+        "patrys.vscode-code-outline",
+        "PeterJausovec.vscode-docker",
+        "pflannery.vscode-versionlens",
+        "rafamel.subtle-brackets",
+        "robertohuertasm.vscode-icons",
+        "robinbentley.sass-indented",
+        "samverschueren.yo",
+        "sanderledegen.angular-follow-selector",
+        "seansobey.jasmine-problem-matcher",
+        "sidneys1.gitconfig",
+        "SimonTest.simontest",
+        "thekalinga.bootstrap4-vscode",
+        "yzhang.markdown-all-in-one",
+        "zehfernando.theme-actual-obsidian"
+    ]
 }

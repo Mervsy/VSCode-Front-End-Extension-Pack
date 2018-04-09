@@ -4,12 +4,13 @@
   "description":
     "Nimble and adaptive, a must-have extension-pack for every professional front-end engineer.  Whether it's Angular, SCSS, HTML, or general code-formatting, this extension-pack is what you need without the bloat.  The functionality you need to increase productivity, consistency, and rate of implementation.",
   "version": "1.0.0",
-  "publisher": "Mervsy",
+  "publisher": "RyanMyrvold",
   "engines": {
     "vscode": "^1.22.0"
   },
+  "categories": ["Extension Packs"],
   "author": {
-    "email": "ryan@mervsy.com",
+    "email": "rmyrvold@live.com",
     "name": "Ryan Myrvold",
     "url": "https://github.com/Mervsy"
   },
@@ -19,9 +20,10 @@
   },
   "badges": [
     {
-      "description": "",
-      "href": "",
-      "url": ""
+      "description": "Build",
+      "href": "https://travis-ci.org/Mervsy/VSCode-Front-End-Extension-Pack",
+      "url":
+        "https://travis-ci.org/Mervsy/VSCode-Front-End-Extension-Pack.svg?branch=master"
     }
   ],
   "icon": "icons/front-end-professional.png",
@@ -29,7 +31,6 @@
     "type": "git",
     "url": "https://github.com/Mervsy/front-end-extension-pack"
   },
-  "categories": ["Extension Packs"],
   "extensionDependencies": [
     "aaronphy.scss-scan",
     "Angular.ng-template",

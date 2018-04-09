@@ -18,6 +18,10 @@
     "theme": "dark",
     "color": "#0072c6"
   },
+  "scripts": {
+    "prepublish":
+      "github-changes -d commits -o Mervsy -r VSCode-Front-End-Extension-Pack"
+  },
   "keywords": [
     "TypeScript",
     "JavaScript",
@@ -37,6 +41,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Mervsy/front-end-extension-pack"
+  },
+  "devDependencies": {
+    "github-changes": "^1.1.2"
   },
   "extensionDependencies": [
     "aaronphy.scss-scan",

@@ -15,9 +15,18 @@
     "url": "https://github.com/Mervsy"
   },
   "galleryBanner": {
-    "theme": "light",
+    "theme": "dark",
     "color": "#0072c6"
   },
+  "tags": [
+    "Angular",
+    "SCSS",
+    "Color Scheme",
+    "JSON",
+    "AIO",
+    "JavaScript",
+    "Front-End"
+  ],
   "badges": [
     {
       "description": "Build",

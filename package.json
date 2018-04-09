@@ -3,7 +3,7 @@
   "displayName": "Front-End Professional",
   "description":
     "Nimble and adaptive, a must-have extension-pack for every professional front-end engineer.  Whether it's Angular, SCSS, HTML or general code-formatting.  The functionality you need to increase productivity, consistency, and rate of implementation.",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "publisher": "RyanMyrvold",
   "engines": {
     "vscode": "^1.22.0"
@@ -20,7 +20,7 @@
   },
   "scripts": {
     "prepublish":
-      "github-changes -d commits -o Mervsy -r VSCode-Front-End-Extension-Pack"
+      "github-changes -d commits -o Mervsy -r VSCode-Front-End-Extension-Pack --order-semver"
   },
   "keywords": [
     "TypeScript",

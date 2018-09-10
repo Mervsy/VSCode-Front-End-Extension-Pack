@@ -2,7 +2,7 @@
 
 ### v1.20.0 (2018/09/10 20:44 +00:00)
 
-- [eaa3b31](https://github.com/Mervsy/VSCode-Front-End-Extension-Pack/commit/eaa3b313e019f30296cc25726bdaefb728aae0f4) Add extra Extensions
+- [eaa3b31](https://github.com/Mervsy/VSCode-Front-End-Extension-Pack/commit/eaa3b313e019f30296cc25726bdaefb728aae0f4) Add extra Extensions (@Mervsy)
 
 ### upcoming (2018/04/09 20:44 +00:00)
 

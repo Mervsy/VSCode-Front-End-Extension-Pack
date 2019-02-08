@@ -6,7 +6,8 @@
 
 [![Build Status](https://travis-ci.org/Mervsy/VSCode-Front-End-Extension-Pack.svg?branch=master)](https://travis-ci.org/Mervsy/VSCode-Front-End-Extension-Pack)
 
-Nimble and adaptive, a must-have extension-pack for every professional front-end engineer. Whether it's Angular, SCSS, HTML, or general code-formatting, this extension-pack is what you need without the bloat. The functionality you need to increase productivity, consistency, and rate of implementation
+Nimble and adaptive, a must-have extension-pack for every professional front-end engineer. Whether it's Angular, SCSS, HTML, or general code-formatting, this extension-pack is what
+you need without the bloat. The functionality you need to increase productivity, consistency, and rate of implementation
 
 [.NETCore Commands](https://marketplace.visualstudio.com/items?itemName=matijarmk.dotnet-core-commands)
 
@@ -93,8 +94,6 @@ Nimble and adaptive, a must-have extension-pack for every professional front-end
 [Swagger Document Viewer](https://marketplace.visualstudio.com/items?itemName=mimarec.swagger-doc-viewer)
 
 [Theme: (Actual) Obsidian](https://marketplace.visualstudio.com/items?itemName=zehfernando.theme-actual-obsidian)
-
-[TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 
 [Type Lens](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.typelens)
 

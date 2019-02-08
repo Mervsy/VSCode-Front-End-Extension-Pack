@@ -1,6 +1,6 @@
 ## Change Log
 
-### v1.40.0 (2018/02/08 20:44 +00:00)
+### v1.50.0 (2018/02/08 20:44 +00:00)
 
 - [fcaee1e](https://github.com/Mervsy/VSCode-Front-End-Extension-Pack/commit/fcaee1eeff2531bae489eb760bb545d34acfa2ad) Updated TSLint to Microsoft's Official Extension, removing
   existing (@Mervsy)

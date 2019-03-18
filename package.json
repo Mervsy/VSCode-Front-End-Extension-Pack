@@ -2,7 +2,7 @@
   "name": "front-end-professional",
   "displayName": "Front-End Professional",
   "description": "Nimble and adaptive, a must-have extension-pack for every professional front-end engineer.  Whether it's Angular, SCSS, HTML or general code-formatting.  The functionality you need to increase productivity, consistency, and rate of implementation.",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "publisher": "RyanMyrvold",
   "readme": "README.md",
   "engines": {

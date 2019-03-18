@@ -123,4 +123,4 @@ you need without the bloat. The functionality you need to increase productivity,
 
 [Yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn)
 
-[Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
+[Yo](https://marketplace.visualstudio.com/items?itemName=camel-tooling.yo)

@@ -1,5 +1,9 @@
 ## Change Log
 
+### v3.0.0 (2019/05/06 17:18 +00:00)
+
+- []() Massive Cleanup, removing uncommon, poorly written, and outdated extensions (@Mervsy)
+
 ### v1.50.1 (2018/02/08 20:44 +00:00)
 
 - [fcaee1e](https://github.com/Mervsy/VSCode-Front-End-Extension-Pack/commit/fcaee1eeff2531bae489eb760bb545d34acfa2ad) Updated TSLint to Microsoft's Official Extension, removing

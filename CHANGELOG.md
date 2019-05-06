@@ -2,7 +2,7 @@
 
 ### v3.0.0 (2019/05/06 17:18 +00:00)
 
-- []() Massive Cleanup, removing uncommon, poorly written, and outdated extensions (@Mervsy)
+- [71a6b30](https://github.com/Mervsy/VSCode-Front-End-Extension-Pack/commit/71a6b300b876e55392447ef55d04a4d447ae0cca) Massive Cleanup, removing uncommon, poorly written, and outdated extensions (@Mervsy)
 
 ### v1.50.1 (2018/02/08 20:44 +00:00)
 

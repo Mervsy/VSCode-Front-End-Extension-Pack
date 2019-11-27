@@ -2,7 +2,7 @@
   "name": "front-end-professional",
   "displayName": "Front-End Professional",
   "description": "Nimble and adaptive, a must-have extension-pack for every professional front-end engineer.  Whether it's Angular, SCSS, HTML or general code-formatting.  The functionality you need to increase productivity, consistency, and rate of implementation.",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "publisher": "RyanMyrvold",
   "readme": "README.md",
   "engines": {
@@ -102,7 +102,7 @@
     "nwallace.peep",
     "octref.vetur",
     "OfHumanBondage.react-proptypes-intellisense",
-    "PeterJausovec.vscode-docker",
+    "ms-azuretools.vscode-docker",
     "pflannery.vscode-versionlens",
     "plibither8.remove-comments",
     "pmneo.tsimporter",

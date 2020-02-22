@@ -93,7 +93,7 @@
     "mikemcbride.electron-highlighter",
     "mrmlnc.vscode-autoprefixer",
     "mrmlnc.vscode-scss",
-    "ms-vscode.csharp",
+    "ms-dotnettools.csharp",
     "ms-vscode.powershell",
     "ms-vscode.typescript-javascript-grammar",
     "ms-vscode.vscode-typescript-tslint-plugin",

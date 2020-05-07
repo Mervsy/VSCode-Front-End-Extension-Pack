@@ -27,6 +27,8 @@ you need without the bloat. The functionality you need to increase productivity,
 
 [Bootstrap 4](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
 
+[C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+
 [Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 [Code Beautifier](https://marketplace.visualstudio.com/items?itemName=michelemelluso.code-beautifier)
